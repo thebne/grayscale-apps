@@ -1,0 +1,6 @@
+{
+  "targets": [
+    "Telegram.exe"
+  ],
+  "poll_interval_ms": 16
+}
